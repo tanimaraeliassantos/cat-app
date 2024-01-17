@@ -45,3 +45,8 @@ body {
     border-right: 35px solid transparent;
     border-bottom: 70px solid #5e5e5e;
 }
+
+.cat-left-inner-ear {
+    border: 20px solid transparent;
+    border-bottom: 40px solid #3b3b4f;
+}
