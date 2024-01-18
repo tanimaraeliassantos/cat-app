@@ -1,13 +1,12 @@
 # CAT APP
 
-The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a grey cat with eyes, ears and whiskers all draw with CSS and HTML.:cat2:
+The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a grey cat with eyes, ears, and whiskers all drawn with CSS and HTML. :cat2:
 
 ![cat app - Tanimara Elias Santos](cat-app-showcase.gif)
 
 ## Features
 
-- 
-Hats, eyes, guitar, chords, but I will just leave it at open to interpretation.
+- Head, ears, whiskers, and mouth. Meow. 
 
 ## Technologies
 
